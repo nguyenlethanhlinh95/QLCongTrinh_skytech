@@ -158,7 +158,6 @@
             this.labelControl9.Size = new System.Drawing.Size(46, 16);
             this.labelControl9.TabIndex = 257;
             this.labelControl9.Text = "Chức vụ";
-            this.labelControl9.Click += new System.EventHandler(this.labelControl9_Click);
             // 
             // btn_image
             // 

@@ -456,7 +456,7 @@
             // 
             // btnUserInformation
             // 
-            this.btnUserInformation.Caption = "Thông Tin Người Sữ Dụng";
+            this.btnUserInformation.Caption = "Thông Tin Người Dùng";
             this.btnUserInformation.Id = 29;
             this.btnUserInformation.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnUserInformation.ImageOptions.Image")));
             this.btnUserInformation.LargeWidth = 100;
